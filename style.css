@@ -1,0 +1,33 @@
+body {
+	background-color: green;
+}
+#car_1{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 10px;
+	bottom: 90px;
+
+}
+#car_2 {
+width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 10px;
+	bottom: 150px;
+}
+.task {
+	position: absolute;
+	font-size: 24px;
+	text-transform: uppercase;
+	font-style: italic;
+	left:45%;
+}
+.zagadka {
+	position: absolute;
+	top:10%;
+	left: 10%
+}
+button {
+	cursor: pointer;
+}
